@@ -39,12 +39,12 @@ local Config = {
     KeyFileName     = "Mykey.txt", -- The name of the file where the valid key will be saved for auto-login
 
     -- [6] GUI Management
-    OldGuiName      = "", -- Name of the old GUI to destroy if it's already open
-    MainGuiName     = "", -- Name of the main script's GUI to check if it's already executing
+    OldGuiName      = "big john", -- Name of the old GUI to destroy if it's already open
+    MainGuiName     = "big john v0.1", -- Name of the main script's GUI to check if it's already executing
 
     -- [7] Hub Information & UI Text
-    HubName         = "Test", -- The main title shown at the top of the GUI
-    HubDescription  = "Test" -- The text shown below the title
+    HubName         = "big john", -- The main title shown at the top of the GUI
+    HubDescription  = "tp to a player start trolling them" -- The text shown below the title
 }
 
 -------------------------------------------------------------------------------
